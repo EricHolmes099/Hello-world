@@ -9,8 +9,6 @@ Merci!
 
 C'est le changement numéro 3!
 
-Modification 24 mars 2021 11h31 ok
+Modification 24 mars 2021 11h31
 
-C'est une branche de DEV!
-
-Je vais faire un changement local!!
+SUPER!!!
